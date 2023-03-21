@@ -15,3 +15,4 @@ def parse():
             f.write(f"{data.text}\n")
             description = data.text # записываем в переменную содержание тега
         print(description)
+    f.close()
