@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+  <p>Сайт автосервиса</p>
+  
+  <a href="https://baza-vaza.ru">Запчасти</a><br>
+  <a href="https://www.omgtu.ru">Политех</a><br>
+<table id="table">
+  <tr>
+    <th>Сотрудник</th>
+    <th>Трудовой стаж</th>
+  </tr>
+  <tr>
+    <td>Александр</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>Виталий</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Павел</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Никита</td>
+    <td>7</td>
+  </tr>
+</table>
+  <script>
+
+  </script>
+</body>
+</html>
